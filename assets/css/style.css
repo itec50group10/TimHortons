@@ -1,15 +1,5 @@
-/**
-* Template Name: Regna - v4.5.0
-* Template URL: https://bootstrapmade.com/regna-bootstrap-onepage-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
-
-/*--------------------------------------------------------------
-# General
---------------------------------------------------------------*/
 body {
-  background: rgb(223, 59, 59);
+  background: rgb(255, 255, 255);
   color: #da3434;
   font-family: "Open Sans", sans-serif;
 }
@@ -698,7 +688,7 @@ section {
 }
 #portfolio #portfolio-flters li:hover, #portfolio #portfolio-flters li.filter-active {
   color: #fff;
-  background: #2dc997;
+  background: #ff0000;
 }
 #portfolio #portfolio-flters li:last-child {
   margin-right: 0;
@@ -720,7 +710,7 @@ section {
   bottom: -50px;
   z-index: 3;
   transition: all ease-in-out 0.3s;
-  background: #2dc997;
+  background: #ff0000;
   padding: 15px 20px;
 }
 #portfolio .portfolio-item .portfolio-info h4 {
